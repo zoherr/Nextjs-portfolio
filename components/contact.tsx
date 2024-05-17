@@ -49,7 +49,9 @@ export default function Contact() {
             return;
           }
 
-          toast.success("Email sent successfully!");
+          toast("Email sent successfully!", {
+            icon: '🦁',
+          });
         }}
       >
         <input
