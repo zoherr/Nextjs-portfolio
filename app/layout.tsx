@@ -10,8 +10,9 @@ import { Toaster } from "react-hot-toast";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "Zoher R. | Personal Portfolio",
-  description: "Zoher is a full-stack developer.",
+  title: "Zoher Rangwala | Co-Founder of SMB Innovation | Computer Science Portfolio",
+  description: "Explore the personal portfolio of Zoher Rangwala, Co-Founder of SMB Innovation. Discover projects, innovations, and expertise in software development and computer science.",
+  keywords: "Zoher Rangwala, SMB Innovation,smbinnov,SMB INNOVATION, Zoher R,Zoher,Rangwala,Zoher Rang,Co-Founder of SMB Innovation, personal portfolio, software development, computer science student, technology innovation, co-founder, computer science projects, tech solutions"
 };
 
 export default function RootLayout({
